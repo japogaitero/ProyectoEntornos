@@ -12,5 +12,7 @@ package pruebapersona;
  */
 public class claseDePrueba {
     //comentarios de prueba
+    
+    //nuevos para un segundo commit 
 
 }
